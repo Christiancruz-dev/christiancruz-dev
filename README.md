@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Christian Cruz 
 
-**`Desenvolvedora Back-and`**
+**`Desenvolvedor Back-and`**
 
 Me chamo Christian Ariel Araujo Cruz, tenho 18 anos e sou natural do Ceará. Concluí o ensino médio na EEEP José Vidal Alves, onde realizei o curso técnico em Desenvolvimento de Sistemas. Atualmente, curso Ciência da Computação na Universidade Federal do Ceará (UFC). Busco constantemente aplicar meus conhecimentos técnicos em desafios reais, unindo minha base acadêmica à experiência prática no desenvolvimento de soluções tecnológicas.
 
